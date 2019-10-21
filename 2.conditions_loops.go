@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main_this(){
+func main_this2(){
 	ans1, ans2, ans3 := multiple_arith(23, 0.04)
 	fmt.Println(ans1)
 	fmt.Println(ans2)

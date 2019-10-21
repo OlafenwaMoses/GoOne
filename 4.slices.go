@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main_this(){
+func main_this4(){
 	result := slices(6)
 	fmt.Println(result)
 	result = append(result, 1000)
