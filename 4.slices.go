@@ -2,7 +2,11 @@ package main
 
 import "fmt"
 
-func main_this4(){
+/*
+Works like arrays, but with option to append new items
+*/
+
+func main(){
 	result := slices(6)
 	fmt.Println(result)
 	result = append(result, 1000)

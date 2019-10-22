@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main_this3(){
+func main(){
 	/*
 	result_array, sample := sample_array()
 	fmt.Println(result_array)
