@@ -10,8 +10,7 @@ func main() {
 	num = 26
 	mutate(&num)
 
-	fmt.Println(num)
-
+	
 }
 
 func mutate(value *int) {
